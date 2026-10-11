@@ -13,6 +13,6 @@ $$A = B \iff A \subseteq B \text{ and } B \subseteq A$$
 
 **Example:** $\mathbb{N} \subseteq \mathbb{Z} \subseteq \mathbb{Q} \subseteq \mathbb{R}$, and each of these inclusions is proper.
 
-**Remark:** Membership and inclusion are different relations: $1 \in \{1, 2\}$ and $\{1\} \subseteq \{1, 2\}$, but $\{1\} \notin \{1, 2\}$. The empty set is a subset of every set $A$, since $\varnothing$ has no element that could fail to lie in $A$.
+**Remark:** Membership and inclusion are different [relations](../D/relation): $1 \in \{1, 2\}$ and $\{1\} \subseteq \{1, 2\}$, but $\{1\} \notin \{1, 2\}$. The empty set is a subset of every set $A$, since $\varnothing$ has no element that could fail to lie in $A$.
 
 The equality criterion is the standard way to prove two sets are equal: show each is a subset of the other. This is called a proof by **two inclusions** (see [De Morgan's laws](../T/de-morgan)).

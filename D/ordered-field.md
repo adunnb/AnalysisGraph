@@ -24,7 +24,7 @@ chapter: "The Rational Numbers"
 
 9. $a(b + c) = ab + ac$
 
-An **ordered field** is a field $F$ together with a relation $<$ satisfying for all $a, b, c \in F$:
+An **ordered field** is a field $F$ together with a [relation](../D/relation) $<$ satisfying for all $a, b, c \in F$:
 
 1. Exactly one of $a < b$, $a = b$, $b < a$ holds (trichotomy)
 2. If $a < b$ and $b < c$, then $a < c$ (transitivity)

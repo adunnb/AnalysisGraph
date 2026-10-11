@@ -38,6 +38,17 @@ title: "Table of Contents"
 &nbsp;&nbsp;&nbsp;&nbsp;2.1.12. **[Characterization of bijections by inverses](../T/inverse-characterization)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2.1.13. **[Injectivity and intersections](../T/injectivity-intersections)**<br>
 
+3\. Relations and Cardinality
+
+&nbsp;&nbsp;3.1. Relations and Order<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.1.1. *[Relation](../D/relation)*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.1.2. *[Partial order](../D/partial-order)*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.1.3. *[Total order](../D/total-order)*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.1.4. *[Equivalence relation](../D/equivalence-relation)*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.1.5. *[Maximal and minimal elements](../D/maximal-element)*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.1.6. *[Greatest and least elements](../D/greatest-element)*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.1.7. **[Maximal elements in a total order](../T/total-order-maximal)**<br>
+
 ### Chapter I: Number Systems
 
 1\. The Natural Numbers
@@ -48,6 +59,7 @@ title: "Table of Contents"
 &nbsp;&nbsp;&nbsp;&nbsp;1.1.3. **[Strong induction](../T/strong-induction)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;1.1.4. **[Summation formulas](../T/summation-formulas)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;1.1.5. **[Finite geometric sum](../T/finite-geometric-sum)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.1.6. **[Difference of powers](../T/difference-powers)**<br>
 
 2\. The Rational Numbers
 

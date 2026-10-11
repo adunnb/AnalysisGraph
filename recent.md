@@ -6,6 +6,16 @@ title: "Recently Added"
 A running feed of new pages, newest first. *Definitions* are set in
 *italics* -- **Theorems** are printed in **bold**.
 
+**October 11, 2026**
+- **[Difference of Powers](T/difference-powers)**
+- *[Relation](D/relation)*
+- *[Partial Order](D/partial-order)*
+- *[Total Order](D/total-order)*
+- *[Equivalence Relation](D/equivalence-relation)*
+- *[Maximal and Minimal Elements](D/maximal-element)*
+- *[Greatest and Least Elements](D/greatest-element)*
+- **[Maximal Elements in a Total Order](T/total-order-maximal)**
+
 **October 10, 2026**
 - **[Injectivity and Intersections](T/injectivity-intersections)**
 - **[Principle of Mathematical Induction](T/induction)**
