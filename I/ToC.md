@@ -49,6 +49,15 @@ title: "Table of Contents"
 &nbsp;&nbsp;&nbsp;&nbsp;3.1.6. *[Greatest and least elements](../D/greatest-element)*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;3.1.7. **[Maximal elements in a total order](../T/total-order-maximal)**<br>
 
+&nbsp;&nbsp;3.2. Finite Sets<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.2.1. *[Cardinality](../D/cardinality)*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.2.2. *[Finite set](../D/finite-set)*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.2.3. **[Extrema of finite totally ordered sets](../T/finite-total-order)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.2.4. **[Uniqueness of finite cardinality](../T/finite-cardinality-unique)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.2.5. **[Counting rules](../T/counting-rules)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.2.6. **[Inclusion–exclusion principle](../T/inclusion-exclusion)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.2.7. **[Pigeonhole principle](../T/pigeonhole)**<br>
+
 ### Chapter I: Number Systems
 
 1\. The Natural Numbers

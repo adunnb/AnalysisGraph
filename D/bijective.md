@@ -17,4 +17,4 @@ link_terms: ["bijective", "bijection", "one-to-one correspondence"]
 
 **Example:** The identity $x \mapsto x$ and the map $x \mapsto 3x^3 - 2$ are bijections $\mathbb{R} \to \mathbb{R}$. For the latter, the unique preimage of $y$ is $\sqrt[3]{(y + 2)/3}$. Likewise, $\sin : [0, \pi/2] \to [0, 1]$ is a bijection.
 
-**Remark:** A bijection has an [inverse function](../D/inverse-function). Bijections are also how the sizes of sets are compared: two sets have the same cardinality when there is a bijection between them.
+**Remark:** A bijection has an [inverse function](../D/inverse-function). Bijections are also how the sizes of sets are compared: two sets have the [same cardinality](../D/cardinality) when there is a bijection between them.

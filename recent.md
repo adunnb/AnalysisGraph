@@ -6,6 +6,15 @@ title: "Recently Added"
 A running feed of new pages, newest first. *Definitions* are set in
 *italics* -- **Theorems** are printed in **bold**.
 
+**October 12, 2026**
+- *[Cardinality](D/cardinality)*
+- *[Finite Set](D/finite-set)*
+- **[Extrema of Finite Totally Ordered Sets](T/finite-total-order)**
+- **[Uniqueness of Finite Cardinality](T/finite-cardinality-unique)**
+- **[Counting Rules](T/counting-rules)**
+- **[Inclusion–Exclusion Principle](T/inclusion-exclusion)**
+- **[Pigeonhole Principle](T/pigeonhole)**
+
 **October 11, 2026**
 - **[Difference of Powers](T/difference-powers)**
 - *[Relation](D/relation)*

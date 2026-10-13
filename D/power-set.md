@@ -13,4 +13,4 @@ It is also written $2^A$.
 
 **Example:** $\mathcal{P}(\{1, 2\}) = \{\varnothing, \{1\}, \{2\}, \{1, 2\}\}$ and $\mathcal{P}(\varnothing) = \{\varnothing\}$.
 
-**Remark:** The elements of $\mathcal{P}(A)$ are themselves sets, and $\varnothing$ and $A$ always belong to $\mathcal{P}(A)$. A finite set with $n$ elements has $2^n$ subsets, which explains the notation $2^A$.
+**Remark:** The elements of $\mathcal{P}(A)$ are themselves sets, and $\varnothing$ and $A$ always belong to $\mathcal{P}(A)$. A [finite set](../D/finite-set) with $n$ elements has $2^n$ subsets, which explains the notation $2^A$.

@@ -17,6 +17,6 @@ The **equivalence class** of $a \in A$ is the set $[a] = \{b \in A : b \sim a\}$
 
 **Example:** For a fixed $n \in \mathbb{N}$, **congruence mod $n$** on $\mathbb{Z}$, defined by $a \equiv b \pmod{n}$ when $a - b$ is a multiple of $n$, is an equivalence relation. Its equivalence classes are the $n$ remainder classes $[0], [1], \ldots, [n-1]$.
 
-**Example:** Two sets have the same cardinality when there is a [bijection](../D/bijective) between them. On any family of sets, this is an equivalence relation: the identity is a bijection, the [inverse](../D/inverse-function) of a bijection is a bijection, and a [composition of bijections](../T/composition-bijections) is a bijection.
+**Example:** Two sets have the [same cardinality](../D/cardinality) when there is a [bijection](../D/bijective) between them. On any family of sets, this is an equivalence relation: the identity is a bijection, the [inverse](../D/inverse-function) of a bijection is a bijection, and a [composition of bijections](../T/composition-bijections) is a bijection.
 
 **Remark:** The equivalence classes of an equivalence relation partition $A$: every element lies in exactly one class, and two classes are either equal or [disjoint](../D/union-intersection). Compare a [partial order](../D/partial-order), which is antisymmetric instead of symmetric.
