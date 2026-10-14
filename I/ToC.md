@@ -57,6 +57,18 @@ title: "Table of Contents"
 &nbsp;&nbsp;&nbsp;&nbsp;3.2.5. **[Counting rules](../T/counting-rules)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;3.2.6. **[Inclusion–exclusion principle](../T/inclusion-exclusion)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;3.2.7. **[Pigeonhole principle](../T/pigeonhole)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.2.8. **[Cardinality of the power set](../T/power-set-size)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.2.9. **[The natural numbers are infinite](../T/naturals-infinite)**<br>
+
+&nbsp;&nbsp;3.3. Countable Sets<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.3.1. *[Countable and uncountable sets](../D/countable)*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.3.2. **[The integers are countable](../T/integers-countable)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.3.3. **[Unions of countable sets](../T/countable-union)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.3.4. **[Products of countable sets](../T/countable-product)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.3.5. **[Subsets of countable sets](../T/countable-subsets)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.3.6. **[Schröder–Bernstein theorem](../T/schroder-bernstein)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.3.7. **[Cantor's theorem](../T/cantor-theorem)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.3.8. **[Uncountability of the power set of ℕ](../T/power-set-uncountable)**<br>
 
 ### Chapter I: Number Systems
 

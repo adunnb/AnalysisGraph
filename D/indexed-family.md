@@ -21,4 +21,4 @@ The intersection is empty because already $A_0 \cap A_1 = \varnothing$.
 
 **Example:** $\bigcap_{n \in \mathbb{N}} \left(0, \tfrac{1}{n}\right) = \varnothing$, by the [Archimedean property](../T/archimedean).
 
-**Remark:** The index set may be infinite, even uncountable. The quantifiers $\exists$ ("there exists") and $\forall$ ("for every") correspond exactly to unions and intersections over indexed families.
+**Remark:** The index set may be infinite, even [uncountable](../D/countable). The quantifiers $\exists$ ("there exists") and $\forall$ ("for every") correspond exactly to unions and intersections over indexed families.

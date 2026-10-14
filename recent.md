@@ -6,6 +6,18 @@ title: "Recently Added"
 A running feed of new pages, newest first. *Definitions* are set in
 *italics* -- **Theorems** are printed in **bold**.
 
+**October 14, 2026**
+- **[Cardinality of the Power Set](T/power-set-size)**
+- **[The Natural Numbers Are Infinite](T/naturals-infinite)**
+- *[Countable and Uncountable Sets](D/countable)*
+- **[The Integers Are Countable](T/integers-countable)**
+- **[Unions of Countable Sets](T/countable-union)**
+- **[Products of Countable Sets](T/countable-product)**
+- **[Subsets of Countable Sets](T/countable-subsets)**
+- **[Schröder–Bernstein Theorem](T/schroder-bernstein)**
+- **[Cantor's Theorem](T/cantor-theorem)**
+- **[Uncountability of the Power Set of ℕ](T/power-set-uncountable)**
+
 **October 12, 2026**
 - *[Cardinality](D/cardinality)*
 - *[Finite Set](D/finite-set)*
